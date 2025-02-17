@@ -18,7 +18,7 @@ Installation & Setup
 bash
 Copy
 Edit
-git clone https://github.com/your-username/flask-todo-api.git
+git clone https://github.com/Rishab10/Track_2_solution.git
 cd flask-todo-api
 2. Create a Virtual Environment (Optional but Recommended)
 bash
