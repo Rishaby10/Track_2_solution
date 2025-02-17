@@ -25,4 +25,3 @@ This is a simple RESTful API for managing a **Todo list**, built using **Flask**
 ### **1. Clone the Repository**
 ```bash
 git clone https://github.com/Rishaby10/Track_2_solution.git
-cd flask-todo-api
